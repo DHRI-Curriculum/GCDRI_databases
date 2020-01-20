@@ -8,7 +8,7 @@ A database is a collection of data that is structured to allow for manipulation.
 
 ## What is SQL?
 
-SQL (Structured Query Language) is a programming language for interacting with data in a relational database. There are different implementations of SQL—one implementation is [SQLite](https://www.sqlite.org/). Different implementations (such as [PostgreSQL](https://www.postgresql.org/) and [MySQL](https://www.mysql.com/)) have their own higher level specialized functions, but the all handle the same basic operations covered today.
+SQL (Structured Query Language) is a programming language for interacting with data in a relational database. There are different implementations of SQL—one implementation is [SQLite](https://www.sqlite.org/). Different implementations (such as [PostgreSQL](https://www.postgresql.org/) and [MySQL](https://www.mysql.com/)) have their own higher level specialized functions, but they all handle the same basic operations covered today.
 
 We’re going to use SQLite in this session because getting set up requires less work. SQLite is a little different from other implementations of SQL because it operates on regular plain old files and does not require a server connection, unlike PostgreSQL and MySQL. The databases you work with in SQLite exist in `.db` files that you can store anywhere on your computer.
 
