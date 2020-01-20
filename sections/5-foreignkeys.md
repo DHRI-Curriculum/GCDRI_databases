@@ -19,7 +19,7 @@ The foreign key points to a primary key in another table, in this case the `prog
 
 All records in the `students` table must point to a valid primary key in the `programs` table.
 
-The last step is to add some data to the new "students" table. Try adding some data on your own own (for example, student: 'John Doe', id_program: '3')—if you get stuck, a solution is [here](solution2.sql).
+The last step is to add some data to the new "students" table. Try adding some data on your own (for example, student: 'John Doe', id_program: '3')—if you get stuck, a solution is [here](solution2.sql).
 
 Remember:
 
