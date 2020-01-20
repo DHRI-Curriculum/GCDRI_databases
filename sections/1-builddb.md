@@ -4,7 +4,7 @@
 
 To get started, we're going to use the `sqlite` tool to create the database file we will be using during this session.
 
-In these sesssions, we've been placing files in a `projects` folder on our desktop. Let's create a folder for this session on databases. 
+In these sessions, we've been placing files in a `projects` folder on our desktop. Let's create a folder for this session on databases. 
 
 Go to the `projects` directory in your command line and enter these commands:
 
