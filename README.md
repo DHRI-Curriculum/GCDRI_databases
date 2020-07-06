@@ -21,7 +21,7 @@ After completing this session, attendees will be able to:
 [General database queries](sections/7-commonqueries.md)  
 [Joins](sections/8-innerjoin.md)  
 [Importing a csv file into a SQL table](sections/9-importcsv.md)  
-[What makes a good dataset?](sections/9b-datasets.md) 
+[What makes a good dataset?](sections/9b-datasets.md)  
 [More querying](sections/10-usefulqueries.md)  
 [Challenge: Use queries to summarize your data](sections/11-querieschallenge.md)  
 [Databases vs. Excel](sections/12-excel_v_db.md)  
