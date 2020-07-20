@@ -62,7 +62,7 @@ In the following query, `WHERE` filters the records by their value in the "id" f
 ```sql
 # Show all fields for each record in the table 'students' 
 # where the value of the 'id' field is equal to '3'
-SELECT * FROM students WHERE id = '3'
+SELECT * FROM students WHERE id = '3';
 ```
 ```
 id          student     id_program
