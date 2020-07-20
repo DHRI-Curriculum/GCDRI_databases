@@ -19,11 +19,7 @@ After completing the command line workshop, I would say that:
 
 ## Qualitative Self-Assessment
 
-What is the Command Line? How is it different from your text editor? 
 
-What is the difference between plain text and a Microsoft Word document? 
-
-When and why would you want to use the command line as opposed to your operating system's GUI? 
 
 ## Feedback on this workshop
 
@@ -35,15 +31,7 @@ Which of the following statements best describes your experience completing this
 - The workshop was confusing at times, making it hard to follow along. 
 - The workshop did not offer any new information or skills. 
 
-Please select all that apply. Which section(s) of the Command Line workshop were most valuable to you?  PLEASE NOTE: This is going to have to be revised once the workshop has been finalized. 
-- What is the Command Line?
-- Why is the Command Line Useful?
-- Navigation
-- Creating Files and Folders
-- Creating a Cheat Sheet
-- Pipes
-- Exploring Text Data
-- Searching Text Data
+Please select all that apply. Which section(s) of the Database workshop were most valuable to you?  PLEASE NOTE: This is going to have to be revised once the workshop has been finalized. 
 
 
 What additional topics or information do you wish was covered in this workshop? 
